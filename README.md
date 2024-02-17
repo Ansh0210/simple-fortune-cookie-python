@@ -1,0 +1,2 @@
+# simple fortune cookie python
+ 
